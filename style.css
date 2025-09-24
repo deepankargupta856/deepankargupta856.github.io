@@ -454,3 +454,43 @@ img, svg {
   }
   .hero-right { text-align: center; }
 } 
+
+/* Experience */
+.exp-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.exp-card {
+  background: linear-gradient(180deg, rgba(17,24,39, 0.92), rgba(15,23,42, 0.92));
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.exp-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.6rem;
+}
+
+.exp-role {
+  margin: 0;
+}
+
+.exp-meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.exp-points {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.exp-points li {
+  margin: 0.25rem 0;
+} 
