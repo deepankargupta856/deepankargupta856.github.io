@@ -34,12 +34,12 @@ const projects = [
     repoLink: 'https://github.com/deepankargupta856/FinWiser'
   },
   {
-    title: 'Hybrid Music Recommender',
+    title: 'Youtube Comment Sentiment Analyzer',
     image: 'resources/project6.png',
-    description: 'A hybrid music recommender system using collaborative filtering and content-based filtering.',
-    technologies: ['Docker', 'AWS', 'DVC', 'EDA'],
-    liveLink: '#',
-    repoLink: '#'
+    description: 'A project showcasing complete MLops Lifecycle',
+    technologies: ['Docker', 'AWS', 'DVC', 'EDA','GitHub Actions','Light GBM'],
+    liveLink: 'https://github.com/deepankargupta856/yt-plugin-frontend',
+    repoLink: 'https://github.com/deepankargupta856/Yt-Comment-Sentiment-Analysis'
   },
   {
     title: 'Built a Neural Network from Scratch',
