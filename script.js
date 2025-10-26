@@ -36,7 +36,7 @@ const projects = [
   {
     title: 'Youtube Comment Sentiment Analyzer',
     image: 'resources/project6.png',
-    description: 'A project showcasing complete MLops Lifecycle',
+    description: 'A project showcasing complete MLops Lifecycle and sentiment analysis',
     technologies: ['Docker', 'AWS', 'DVC', 'EDA','GitHub Actions','Light GBM'],
     liveLink: 'https://github.com/deepankargupta856/yt-plugin-frontend',
     repoLink: 'https://github.com/deepankargupta856/Yt-Comment-Sentiment-Analysis'
